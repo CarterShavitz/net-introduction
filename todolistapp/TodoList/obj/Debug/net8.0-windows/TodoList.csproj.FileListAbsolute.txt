@@ -1,0 +1,17 @@
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\bin\Debug\net8.0-windows\TodoList.exe
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\bin\Debug\net8.0-windows\TodoList.deps.json
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\bin\Debug\net8.0-windows\TodoList.runtimeconfig.json
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\bin\Debug\net8.0-windows\TodoList.dll
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\bin\Debug\net8.0-windows\TodoList.pdb
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.csproj.GenerateResource.cache
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.AssemblyInfoInputs.cache
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.AssemblyInfo.cs
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.dll
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\refint\TodoList.dll
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.pdb
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.genruntimeconfig.cache
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\ref\TodoList.dll
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.Login.resources
+C:\Users\Carter Shavitz\Documents\Personal\Projects\todolistapp\TodoList\obj\Debug\net8.0-windows\TodoList.UserForm.resources

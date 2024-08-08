@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|c:\\users\\carter shavitz\\documents\\personal\\projects\\todolistapp\\todolist\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|c:\\users\\carter shavitz\\documents\\personal\\projects\\todolistapp\\todolist\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|c:\\users\\carter shavitz\\documents\\personal\\projects\\todolistapp\\todolist\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|solutionrelative:userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|c:\\users\\carter shavitz\\documents\\personal\\projects\\todolistapp\\todolist\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|c:\\users\\carter shavitz\\documents\\personal\\projects\\todolistapp\\todolist\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|c:\\users\\carter shavitz\\documents\\personal\\projects\\todolistapp\\todolist\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|c:\\users\\carter shavitz\\documents\\personal\\projects\\todolistapp\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C195C0E4-0042-4927-BCC5-7D005C9AEEAA}|TodoList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\UserForm.cs [Design]",
+              "RelativeToolTip": "UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:51:37.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\UserForm.Designer.cs",
+              "RelativeToolTip": "UserForm.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:49:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\UserForm.cs",
+              "RelativeToolTip": "UserForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:48:38.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:26:00.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwGcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:14:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:02:29.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Carter Shavitz\\Documents\\Personal\\Projects\\todolistapp\\TodoList\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:15:04.357Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
