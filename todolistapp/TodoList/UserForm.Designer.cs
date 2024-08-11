@@ -28,19 +28,46 @@
         /// </summary>
         private void InitializeComponent()
         {
+            add = new Button();
+            listbox = new ListBox();
             SuspendLayout();
             // 
-            // User
+            // add
+            // 
+            add.Location = new Point(658, 87);
+            add.Name = "add";
+            add.Size = new Size(78, 23);
+            add.TabIndex = 0;
+            add.Text = "Add";
+            add.UseVisualStyleBackColor = true;
+            add.Click += Add_Click;
+            // 
+            // listbox
+            // 
+            listbox.Font = new Font("Segoe UI", 20F);
+            listbox.FormattingEnabled = true;
+            listbox.ItemHeight = 37;
+            listbox.Location = new Point(24, 38);
+            listbox.Name = "listbox";
+            listbox.Size = new Size(607, 263);
+            listbox.TabIndex = 2;
+            // 
+            // UserForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Name = "User";
+            ClientSize = new Size(818, 450);
+            Controls.Add(listbox);
+            Controls.Add(add);
+            Name = "UserForm";
             Text = "Todo List";
-            Load += this.User_Load;
+            Load += User_Load;
             ResumeLayout(false);
         }
 
         #endregion
+
+        private Button add;
+        private ListBox listbox;
     }
 }
