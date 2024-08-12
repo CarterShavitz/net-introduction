@@ -12,6 +12,8 @@ namespace TodoList
 {
     public partial class ItemInput : Form
     {
+        public static String updateString;
+
         public ItemInput()
         {
             InitializeComponent();
@@ -19,7 +21,10 @@ namespace TodoList
 
         private void ItemInput_Load(object sender, EventArgs e)
         {
-
+            if (updateString != null)
+            {
+                todoiteminput.Text = updateString;
+            }
         }
 
         private void submititem_Click(object sender, EventArgs e)

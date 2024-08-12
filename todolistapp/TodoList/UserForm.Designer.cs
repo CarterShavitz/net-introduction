@@ -30,13 +30,15 @@
         {
             add = new Button();
             listbox = new ListBox();
+            delete = new Button();
+            updateBtn = new Button();
             SuspendLayout();
             // 
             // add
             // 
-            add.Location = new Point(658, 87);
+            add.Location = new Point(657, 38);
             add.Name = "add";
-            add.Size = new Size(78, 23);
+            add.Size = new Size(149, 49);
             add.TabIndex = 0;
             add.Text = "Add";
             add.UseVisualStyleBackColor = true;
@@ -52,11 +54,33 @@
             listbox.Size = new Size(607, 263);
             listbox.TabIndex = 2;
             // 
+            // delete
+            // 
+            delete.Location = new Point(657, 124);
+            delete.Name = "delete";
+            delete.Size = new Size(149, 52);
+            delete.TabIndex = 3;
+            delete.Text = "Delete";
+            delete.UseVisualStyleBackColor = true;
+            delete.Click += delete_Click;
+            // 
+            // updateBtn
+            // 
+            updateBtn.Location = new Point(657, 198);
+            updateBtn.Name = "updateBtn";
+            updateBtn.Size = new Size(149, 58);
+            updateBtn.TabIndex = 4;
+            updateBtn.Text = "Update";
+            updateBtn.UseVisualStyleBackColor = true;
+            updateBtn.Click += updateBtn_Click;
+            // 
             // UserForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(818, 450);
+            Controls.Add(updateBtn);
+            Controls.Add(delete);
             Controls.Add(listbox);
             Controls.Add(add);
             Name = "UserForm";
@@ -69,5 +93,7 @@
 
         private Button add;
         private ListBox listbox;
+        private Button delete;
+        private Button updateBtn;
     }
 }
