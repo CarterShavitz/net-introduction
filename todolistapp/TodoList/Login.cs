@@ -1,3 +1,6 @@
+using System.Configuration;
+using System.Data.SqlClient;
+
 namespace TodoList
 {
     public partial class Login : Form
@@ -15,13 +18,13 @@ namespace TodoList
         {
             usernameList.Add("admin");
             passwordList.Add("password");
-            
         }
 
         private void submit_Click(object sender, EventArgs e)
         {
             String username = usernameinput.Text;
             String password = passwordinput.Text;
+            String connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
             if (username == null || password == null)
             {
                 //please fill in all fields
