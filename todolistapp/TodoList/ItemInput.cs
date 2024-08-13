@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//Input class to handle the actual text input of the todo
 namespace TodoList
 {
     public partial class ItemInput : Form

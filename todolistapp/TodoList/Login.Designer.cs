@@ -34,6 +34,7 @@
             usernameinput = new TextBox();
             submit = new Button();
             header = new Label();
+            signup = new Button();
             SuspendLayout();
             // 
             // username
@@ -72,9 +73,9 @@
             // 
             submit.Location = new Point(43, 205);
             submit.Name = "submit";
-            submit.Size = new Size(269, 23);
+            submit.Size = new Size(184, 23);
             submit.TabIndex = 4;
-            submit.Text = "Submit";
+            submit.Text = "Log In";
             submit.UseVisualStyleBackColor = true;
             submit.Click += submit_Click;
             // 
@@ -88,18 +89,29 @@
             header.TabIndex = 5;
             header.Text = "Todo List";
             // 
-            // Form1
+            // signup
+            // 
+            signup.Location = new Point(238, 205);
+            signup.Name = "signup";
+            signup.Size = new Size(75, 23);
+            signup.TabIndex = 6;
+            signup.Text = "Sign Up";
+            signup.UseVisualStyleBackColor = true;
+            signup.Click += signup_Click;
+            // 
+            // Login
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(786, 473);
+            Controls.Add(signup);
             Controls.Add(header);
             Controls.Add(submit);
             Controls.Add(usernameinput);
             Controls.Add(passwordinput);
             Controls.Add(password);
             Controls.Add(username);
-            Name = "Form1";
+            Name = "Login";
             Text = "Todo List";
             Load += Login_load;
             ResumeLayout(false);
@@ -114,5 +126,6 @@
         private TextBox usernameinput;
         private Button submit;
         private Label header;
+        private Button signup;
     }
 }
