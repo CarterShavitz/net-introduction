@@ -23,7 +23,6 @@ namespace TodoList
             passwordinput.Text = "";
             passwordinput.PasswordChar = '*';
             passwordinput.MaxLength = 20;
-
         }
 
         private void submit_Click(object sender, EventArgs e)
